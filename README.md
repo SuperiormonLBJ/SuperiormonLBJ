@@ -1,8 +1,8 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Builder%20%2F%20Engineer&fontAlignY=45&animation=fadeIn&fontColor=2D3669&desc=Based%20in%20Singapore&descAlignY=70" />
 </p>
+
+---
 ### Tech Stack
 
 <div align="center">
