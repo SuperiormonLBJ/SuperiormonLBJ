@@ -10,7 +10,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/superiormon187">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" />
+    <img src="https://img.icons8.com/color/48/instagram-new.png" height="30" />
   </a>
 </p>
 
