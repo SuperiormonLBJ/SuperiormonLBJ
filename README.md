@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**SuperiormonLBJ/SuperiormonLBJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+**AI & ML**
+
+[![AI Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,python,fastapi&theme=dark)](https://skillicons.dev)
+
+**Frontend & Backend**
+
+[![Web Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,tailwind&theme=dark)](https://skillicons.dev)
+
+**Data & Infrastructure**
+
+[![Infra Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,git,vercel&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+### GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuperiormonLBJ&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperiormonLBJ&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1c2a3a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+![](https://komarev.com/ghpvc/?username=SuperiormonLBJ&color=58a6ff&style=flat-square&label=profile+views)
