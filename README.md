@@ -2,6 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Builder%20%2F%20Engineer&fontAlignY=45&animation=fadeIn&fontColor=2D3669&desc=Based%20in%20Singapore&descAlignY=70" />
 </p>
 
+<h2 align="center">Hi 👋, I'm Li Beiji（李贝基）</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/beiji-li/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/superiormon187">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" />
+  </a>
+</p>
+
 ---
 ### Tech Stack
 
