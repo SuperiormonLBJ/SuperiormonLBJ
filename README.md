@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuperiormonLBJ&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuperiormonLBJ)](https://git.io/streak-stats)
 
 </div>
 
