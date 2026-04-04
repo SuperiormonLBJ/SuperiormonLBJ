@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&lines=Building+AI+Agents;Scaling+Backend+Systems;Kafka+%7C+RAG+%7C+n8n" />
+</p>
 
 ### Tech Stack
 
