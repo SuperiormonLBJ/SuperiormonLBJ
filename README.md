@@ -7,15 +7,19 @@
 
 **AI & ML**
 
-[![AI Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,python,fastapi&theme=dark)](https://skillicons.dev)
+[![AI Skills](https://skillicons.dev/icons?i=ai,pytorch,tensorflow,python,fastapi&theme=dark)](https://skillicons.dev)
 
 **Frontend & Backend**
 
-[![Web Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,tailwind&theme=dark)](https://skillicons.dev)
+[![Web Skills](https://skillicons.dev/icons?i=react,spring,java,html,nextjs,py,typescript,nodejs,tailwind,postman&theme=dark)](https://skillicons.dev)
 
 **Data & Infrastructure**
 
-[![Infra Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,git,vercel&theme=dark)](https://skillicons.dev)
+[![Infra Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,vercel,linux&theme=dark)](https://skillicons.dev)
+
+**DevOps**
+
+[![Infra Skills](https://skillicons.dev/icons?i=docker,git,jenkins,bitbucket,kubernetes,anaconda&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -32,8 +36,8 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperiormonLBJ&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1c2a3a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperiormonLBJ&theme=xcode&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1c2a3a)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=SuperiormonLBJ&color=58a6ff&style=flat-square&label=profile+views)
+![](https://komarev.com/ghpvc/?username=SuperiormonLBJ&color=brightgreen&style=plastic&label=profile+views)
