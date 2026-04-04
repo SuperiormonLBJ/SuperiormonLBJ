@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&lines=Building+AI+Agents;Scaling+Backend+Systems;Kafka+%7C+RAG+%7C+n8n" />
-</p>
+[<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&lines=Building+AI+Agents;RAG+Skills+MCP+Multi-Agents;Software+Engineer" />
+</p>](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Builder/Engineer/&textBg=false&fontAlignY=50&reversal=false&animation=fadeIn&fontColor=2D3669&desc=Based%20in%20Singapore&descAlignY=74)
+
 
 ### Tech Stack
 
