@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[![Website](https://img.shields.io/badge/Website-Personal-blue?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://portfolio-beiji.vercel.app/])
+[![Website](https://img.shields.io/badge/Website-Personal-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-beiji.vercel.app/)
 
 ---
 ### Tech Stack
